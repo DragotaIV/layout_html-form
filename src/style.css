@@ -1,6 +1,6 @@
 /* styles go here */
 body {
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .form_field {
@@ -8,14 +8,14 @@ body {
   display: block;
 }
 
+.field {
+  
+  margin: 10px;
+}
+
 .field:focus {
   
   background-color: aqua;
-}
-
-input {
-  
-  margin: 10px;
 }
 
 .group {
