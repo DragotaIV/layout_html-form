@@ -1,1 +1,24 @@
 /* styles go here */
+body {
+  margin: o auto;
+}
+
+.form_field {
+  
+  display: block;
+}
+
+.field:focus {
+  
+  background-color: aqua;
+}
+
+input {
+  
+  margin: 10px;
+}
+
+.group {
+  
+  margin-top: 20px;
+}
